@@ -5,18 +5,59 @@
         <description>Recent content in Posts on Mano Hugo webas</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 13 Jan 2025 23:40:06 +0200</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 00:03:18 +0200</lastBuildDate>
         <atom:link href="https://NedasKontenis.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Labas Krabas</title>
+            <title>Manopsl</title>
+            <link>https://NedasKontenis.github.io/posts/manopsl/</link>
+            <pubDate>Tue, 14 Jan 2025 00:03:18 +0200</pubDate>
+            
+            <guid>https://NedasKontenis.github.io/posts/manopsl/</guid>
+            <description>&lt;h2 id=&#34;welcome-to-my-new-post&#34;&gt;Welcome to My New Post&lt;/h2&gt;
+&lt;p&gt;This is a new post with a picture and a code block.&lt;/p&gt;
+&lt;h3 id=&#34;picture-example&#34;&gt;Picture Example&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://NedasKontenis.github.io/images/example-image.jpg&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;code-block-example&#34;&gt;Code Block Example&lt;/h3&gt;
+&lt;p&gt;Here is a code snippet:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;greet&lt;/span&gt;(name):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;f&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, &lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;{&lt;/span&gt;name&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+            <content type="html"><![CDATA[<h2 id="welcome-to-my-new-post">Welcome to My New Post</h2>
+<p>This is a new post with a picture and a code block.</p>
+<h3 id="picture-example">Picture Example</h3>
+<p><img src="/images/example-image.jpg" alt="Image"></p>
+<h3 id="code-block-example">Code Block Example</h3>
+<p>Here is a code snippet:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">greet</span>(name):
+</span></span><span style="display:flex;"><span>    print(<span style="color:#e6db74">f</span><span style="color:#e6db74">&#34;Hello, </span><span style="color:#e6db74">{</span>name<span style="color:#e6db74">}</span><span style="color:#e6db74">!&#34;</span>)
+</span></span></code></pre></div>]]></content>
+        </item>
+        
+        <item>
+            <title>Puslapiukas</title>
             <link>https://NedasKontenis.github.io/posts/main/</link>
-            <pubDate>Mon, 13 Jan 2025 23:40:06 +0200</pubDate>
+            <pubDate>Tue, 14 Jan 2025 00:03:18 +0200</pubDate>
             
             <guid>https://NedasKontenis.github.io/posts/main/</guid>
-            <description>&lt;p&gt;Sesios zasys su sesisias zasyciais&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<p>Sesios zasys su sesisias zasyciais</p>
-]]></content>
+            <description>&lt;h2 id=&#34;welcome-to-my-new-post&#34;&gt;Welcome to My New Post&lt;/h2&gt;
+&lt;p&gt;This is a new post with a picture and a code block.&lt;/p&gt;
+&lt;h3 id=&#34;picture-example&#34;&gt;Picture Example&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://NedasKontenis.github.io/images/example-image.jpg&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;code-block-example&#34;&gt;Code Block Example&lt;/h3&gt;
+&lt;p&gt;Here is a code snippet:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;greet&lt;/span&gt;(name):
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;f&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, &lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;{&lt;/span&gt;name&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+            <content type="html"><![CDATA[<h2 id="welcome-to-my-new-post">Welcome to My New Post</h2>
+<p>This is a new post with a picture and a code block.</p>
+<h3 id="picture-example">Picture Example</h3>
+<p><img src="/images/example-image.jpg" alt="Image"></p>
+<h3 id="code-block-example">Code Block Example</h3>
+<p>Here is a code snippet:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">greet</span>(name):
+</span></span><span style="display:flex;"><span>    print(<span style="color:#e6db74">f</span><span style="color:#e6db74">&#34;Hello, </span><span style="color:#e6db74">{</span>name<span style="color:#e6db74">}</span><span style="color:#e6db74">!&#34;</span>)
+</span></span></code></pre></div>]]></content>
         </item>
         
     </channel>

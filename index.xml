@@ -6,14 +6,21 @@
     <description>Recent content on Mano Hugo webas</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jan 2025 23:40:06 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 00:03:18 +0200</lastBuildDate>
     <atom:link href="https://NedasKontenis.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Labas Krabas</title>
+      <title>Manopsl</title>
+      <link>https://NedasKontenis.github.io/posts/manopsl/</link>
+      <pubDate>Tue, 14 Jan 2025 00:03:18 +0200</pubDate>
+      <guid>https://NedasKontenis.github.io/posts/manopsl/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-my-new-post&#34;&gt;Welcome to My New Post&lt;/h2&gt;&#xA;&lt;p&gt;This is a new post with a picture and a code block.&lt;/p&gt;&#xA;&lt;h3 id=&#34;picture-example&#34;&gt;Picture Example&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://NedasKontenis.github.io/images/example-image.jpg&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;code-block-example&#34;&gt;Code Block Example&lt;/h3&gt;&#xA;&lt;p&gt;Here is a code snippet:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;greet&lt;/span&gt;(name):&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;f&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, &lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;{&lt;/span&gt;name&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Puslapiukas</title>
       <link>https://NedasKontenis.github.io/posts/main/</link>
-      <pubDate>Mon, 13 Jan 2025 23:40:06 +0200</pubDate>
+      <pubDate>Tue, 14 Jan 2025 00:03:18 +0200</pubDate>
       <guid>https://NedasKontenis.github.io/posts/main/</guid>
-      <description>&lt;p&gt;Sesios zasys su sesisias zasyciais&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;welcome-to-my-new-post&#34;&gt;Welcome to My New Post&lt;/h2&gt;&#xA;&lt;p&gt;This is a new post with a picture and a code block.&lt;/p&gt;&#xA;&lt;h3 id=&#34;picture-example&#34;&gt;Picture Example&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://NedasKontenis.github.io/images/example-image.jpg&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;code-block-example&#34;&gt;Code Block Example&lt;/h3&gt;&#xA;&lt;p&gt;Here is a code snippet:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;greet&lt;/span&gt;(name):&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;f&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, &lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;{&lt;/span&gt;name&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
